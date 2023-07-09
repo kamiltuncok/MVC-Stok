@@ -1,0 +1,91 @@
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\MVC Stok.dll.config
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\MVC Stok.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\MVC Stok.pdb
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csc.exe
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csc.exe.config
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csc.rsp
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csi.exe
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csi.exe.config
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\csi.rsp
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.AppContext.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Console.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.IO.Compression.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Claims.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.ValueTuple.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\vbc.exe
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\vbc.exe.config
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\vbc.rsp
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\VBCSCompiler.exe
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Antlr3.Runtime.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\EntityFramework.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\EntityFramework.SqlServer.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Newtonsoft.Json.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Helpers.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Mvc.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Optimization.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Razor.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.Razor.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\WebGrease.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\EntityFramework.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\EntityFramework.SqlServer.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Helpers.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Mvc.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Optimization.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.Razor.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\System.Web.WebPages.Razor.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Newtonsoft.Json.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Antlr3.Runtime.pdb
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.Razor.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\obj\Debug\MVC Stok.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\obj\Debug\MVC Stok.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\obj\Debug\MVC Stok.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\obj\Debug\MVC Stok.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\obj\Debug\MVC Stok.pdb
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\PagedList.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\PagedList.Mvc.dll
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\PagedList.xml
+C:\Users\MONSTER\source\repos\MVC Stok\MVC Stok\bin\PagedList.Mvc.xml
